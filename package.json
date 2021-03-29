@@ -1,0 +1,21 @@
+{
+  "name": "hyper-kitten-cursor",
+  "version": "1.0.0",
+  "description": "Replace your Hyper cursor with a curious kitten!",
+  "author": "William Tallis Falch",
+  "license": "MIT",
+  "keywords": [
+    "hyper",
+    "cat",
+    "cursor"
+  ],
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/williamtfalch/hyper-kitten-cursor.git"
+  },
+  "bugs": {
+    "url": "https://github.com/williamtfalch/hyper-kitten-cursor/issues"
+  },
+  "homepage": "https://github.com/williamtfalch/hyper-kitten-cursor#readme"
+}
